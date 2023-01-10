@@ -39,5 +39,23 @@ pyspark安装：
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/121.pic.jpg)
 
 四、任务二
+1、读取数据集并过滤出IBM的数据
+![image](https://github.com/scs0413/experiment4th/blob/main/img/211.pic.jpg)
+关联两张表
+![image](https://github.com/scs0413/experiment4th/blob/main/img/212.pic.jpg)
+2、过滤出苹果公司的数据
+![image](https://github.com/scs0413/experiment4th/blob/main/img/221.pic.jpg)
+提取年
+![image](https://github.com/scs0413/experiment4th/blob/main/img/222.pic.jpg)
+计算每年的交易天数
+![image](https://github.com/scs0413/experiment4th/blob/main/img/223.pic.jpg)
+计算每年总的调整后收盘价总和
+![image](https://github.com/scs0413/experiment4th/blob/main/img/224.pic.jpg)
+关联每年总的调整后收盘价总和和每年的交易天数
+![image](https://github.com/scs0413/experiment4th/blob/main/img/225.pic.jpg)
+计算年平均调整后收盘价
+![image](https://github.com/scs0413/experiment4th/blob/main/img/226.pic.jpg)
+过滤出年平均调整后收盘价大于50的年份
+![image](https://github.com/scs0413/experiment4th/blob/main/img/227.pic.jpg)
 
 五、任务三
