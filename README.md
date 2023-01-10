@@ -27,3 +27,9 @@
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/图片17.png)
 pyspark安装：
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/图片18.png)
+
+三、任务一
+
+四、任务二
+
+五、任务三
