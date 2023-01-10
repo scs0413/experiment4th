@@ -59,3 +59,26 @@ pyspark安装：
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/227.pic.jpg)
 
 五、任务三
+提取月份特征
+![image](https://github.com/scs0413/experiment4th/blob/main/img/311.pic.jpg)
+对stock_symbol列进行浓度编码，即在该值内，涨的数量/该值内总数量
+数据注册为临时表
+![image](https://github.com/scs0413/experiment4th/blob/main/img/312.pic.jpg)
+stock_symbol编码表
+![image](https://github.com/scs0413/experiment4th/blob/main/img/313.pic.jpg)
+对数据集中的stock_symbol字段进行转换
+![image](https://github.com/scs0413/experiment4th/blob/main/img/314.pic.jpg)
+与stock_symbol同样的方式，对exchange进行浓度编码
+![image](https://github.com/scs0413/experiment4th/blob/main/img/315.pic.jpg)
+exchange编码表
+![image](https://github.com/scs0413/experiment4th/blob/main/img/316.pic.jpg)
+对数据集中的exchange字段进行转换
+![image](https://github.com/scs0413/experiment4th/blob/main/img/317.pic.jpg)
+选取特征列表
+![image](https://github.com/scs0413/experiment4th/blob/main/img/318.pic.jpg)
+特征组合为向量
+![image](https://github.com/scs0413/experiment4th/blob/main/img/319.pic.jpg)
+删除缺失值的数据
+![image](https://github.com/scs0413/experiment4th/blob/main/img/320.pic.jpg)
+将数据按照8:2切分为训练集和测试集
+![image](https://github.com/scs0413/experiment4th/blob/main/img/321.pic.jpg)
