@@ -82,3 +82,9 @@ exchange编码表
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/320.pic.jpg)
 将数据按照8:2切分为训练集和测试集
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/321.pic.jpg)
+（1）逻辑回归模型
+![image](https://github.com/scs0413/experiment4th/blob/main/img/322.pic.jpg)
+（2）决策树模型
+![image](https://github.com/scs0413/experiment4th/blob/main/img/323.pic.jpg)
+根据评价指标可见，逻辑回归模型效果更优，因此采用逻辑回归模型对数据进行预测
+![image](https://github.com/scs0413/experiment4th/blob/main/img/324.pic.jpg)
