@@ -29,6 +29,14 @@ pyspark安装：
 ![image](https://github.com/scs0413/experiment4th/blob/main/img/图片18.png)
 
 三、任务一
+1、创建spark会话、设置日志级别
+![image](https://github.com/scs0413/experiment4th/blob/main/img/图片18.png)
+提取年份
+![image](https://github.com/scs0413/experiment4th/blob/main/img/图片18.png)
+对数据进行排序
+![image](https://github.com/scs0413/experiment4th/blob/main/img/图片18.png)
+2、计算stock_price_close与stock_pric_open的差价并进行排序
+![image](https://github.com/scs0413/experiment4th/blob/main/img/图片18.png)
 
 四、任务二
 
